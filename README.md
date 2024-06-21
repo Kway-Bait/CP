@@ -1,6 +1,6 @@
 # :trophy:Competitive Programming
 
-Welcome to my Competitive Programming repository! This is where I stash anything and everything related the amazing world of competitive programming.
+Welcome to my Competitive Programming repository! This is where I stash anything and everything related to the amazing world of competitive programming.
 
 ## What's Here?
 
@@ -25,6 +25,7 @@ I will try to update this repository as much as possible. Of course, this depend
 ### Bonus Content
 
 Since you've made it this far, here's a beautiful picture of Farmer John's cow to brighten your day:
+
 ![alt text](Bessie.png)
 
 Good Luck High Rating,
