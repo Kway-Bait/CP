@@ -2,14 +2,14 @@
 
 Welcome to my Competitive Programming repository! This is where I stash anything and everything related the amazing world of competitive programming.
 
-## What's Here?
+## What's Here:question:
 
-### [Problems](./Problems/)
+### :bookmark_tabs:[<ins>Problems</ins>](./Problems/README.md/)
 
 - **A Collection of Problems and Solutions for Past Olympiads (OI)**
   - Dive into my growing collection of problem sets and their solutions from various Olympiads. Perfect for practice, learning new techniques, or just enjoying the challenge.
 
-### [Resources](./Resources/)
+### :file_folder:[<ins>Resources</ins>](./Resources/README.md/)
 
 - **Competitive Programming Resources**
   - A curated list of valuable resources I've found worth sharing. This probably includes a bunch of [links](https://www.youtube.com/watch?v=BBJa32lCaaY) to tutorials, articles, and tools that can help you enhance your competitive programming skills.

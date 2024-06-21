@@ -20,4 +20,4 @@ Insightful articles and blog posts from top competitive programmers and coaches.
 
 ---
 
-_P.S._ This section is a work in progress. Stay tuned for updates
+*P.S.* This section is a work in progress. Stay tuned for updates

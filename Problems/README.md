@@ -1,6 +1,6 @@
 # CP Problems
 
-Welcome to my collection of competitive programming problems and solutions! 
+Welcome to my collection of competitive programming problems and solutions!
 
 ## What's Here?
 
