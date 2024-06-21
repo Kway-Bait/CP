@@ -1,14 +1,31 @@
-# Competitive Programming
+# :trophy:Competitive Programming
 
-## CP Storage
+Welcome to my Competitive Programming repository! This is where I stash anything and everything related the amazing world of competitive programming.
 
-- Place for my *not-so-impressive* competitive programming stuff
-- Hopefully, be able to fill up those empty spaces one day
+## What's Here?
 
-## Related Link
+### [Problems](./Problems/)
 
-- [Br3ad's OI Checklist](https://oichecklist.pythonanywhere.com/view/3e6a7dd07fa2e9a2bbfe831a0652a39ee2635513)
+- **A Collection of Problems and Solutions for Past Olympiads (OI)**
+  - Dive into my growing collection of problem sets and their solutions from various Olympiads. Perfect for practice, learning new techniques, or just enjoying the challenge.
 
-## Remark
+### [Resources](./Resources/)
 
-*P.S.* Just created this folder not long ago, will slowly upload old solutions
+- **Competitive Programming Resources**
+  - A curated list of valuable resources I've found worth sharing. This probably includes a bunch of [links](https://www.youtube.com/watch?v=BBJa32lCaaY) to tutorials, articles, and tools that can help you enhance your competitive programming skills.
+
+> 📘 Note:
+>
+> Everyone is welcomed to contribute to this section, just submit a pull request to do so. Your contribution will be much appreciated.
+
+## Remarks
+
+I will try to update this repository as much as possible. Of course, this depends on how free I am and how lazy I'm not. Your patience and understanding are appreciated!
+
+### Bonus Content
+
+Since you've made it this far, here's a beautiful picture of Farmer John's cow to brighten your day:
+![alt text](Bessie.png)
+
+Good Luck High Rating,
+KW
