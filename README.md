@@ -2,7 +2,7 @@
 
 Welcome to my Competitive Programming repository! This is where I stash anything and everything related the amazing world of competitive programming.
 
-## What's Here:question:
+## What's Here?
 
 ### :bookmark_tabs:[<ins>Problems</ins>](./Problems/README.md/)
 
