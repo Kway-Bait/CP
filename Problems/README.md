@@ -4,8 +4,13 @@ Welcome to my collection of competitive programming problems and solutions!
 
 ## What's Here?
 
-- **Problems and Solutions**
-  - A place for my *not-so-impressive* (yet!) CP problems and solutions. It's a work in progress, and I'm constantly striving to fill up those empty spaces.
+ A place for my *not-so-impressive* (yet!) CP problems and solutions. It's a work in progress, and I'm constantly striving to fill up those empty spaces.
+
+### Folders
+
+- **Internationl OI**: IOI, ICPC
+- **Regional OI**: APIO, BOI, CEOI, COCI, ...
+- **National OI**: JOI, POI, NOI, ...
 
 ## Related Link
 
