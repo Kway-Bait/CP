@@ -111,17 +111,3 @@ ll int plan_roller_coaster(vector<int> s, vector<int> t){
 
     return cost;
 }
-
-// int main(){
-    
-//     ios::sync_with_stdio(false);
-//     cin.tie(NULL);
-    
-//     // ifstream cin();
-//     // ofstream cout();
-    
-//     ll int temp;
-//     // temp = plan_roller_coaster({1, 4, 5, 6}, {7, 3, 8, 6});
-//     // temp = plan_roller_coaster({1, 3, 5, 7}, {2, 4, 6, 8});
-//     cout << temp << endl;
-// }
